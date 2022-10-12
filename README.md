@@ -1,5 +1,10 @@
 # 🚀 Andrew Tamburino
 
+<h3 align="center">
+  Welcome to Andrew Tamburino's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
 **`Developer/Creator)`**
 
 I'm a developer and creator building my version of the digital world one step at a time. All coding projects are made from the ground up or past work from previous roles. I'm currently working with Echelon Fitness, helping them rebuild their fitness mirror's android app(Reflect Touch) 
