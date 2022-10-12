@@ -50,7 +50,7 @@ I'm a developer and creator building my version of the digital world one step at
 [![Everything You NEED to Know About WEB APP Architecture](https://ytcards.demolab.com/?id=sDlCSIDwpDs&title=Everything+You+NEED+to+Know+About+WEB+APP+Architecture&timestamp=1655911813&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=627 "Everything You NEED to Know About WEB APP Architecture")](https://www.youtube.com/watch?v=sDlCSIDwpDs) -->
 <!-- END YOUTUBE-CARDS -->
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.https://www.youtube.com/channel/UC1U6p1WQk6dHkYzsc8UJViQ?sub_confirmation=1)
 
 #
 
