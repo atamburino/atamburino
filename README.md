@@ -3,7 +3,7 @@
 
 **`Developer/Creator)`**
 
-I'm a developer and creator building my version of the digital world one step at a time. All coding projects are made from the ground up or past work from previous roles. I'm currently working with Echelon Fitness, helping them rebuild their fitness mirror's android app(Reflect Touch) 
+I'm a developer and creator building my version of the digital world one step at a time. All coding projects are made from the ground up or past work from previous roles.
 
    <p align="left">
       <!-- <a href="https://www.tiktok.com/@.andytam">
