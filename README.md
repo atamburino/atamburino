@@ -3,7 +3,7 @@
 
 **`Developer/Creator)`**
 
-I'm a developer and creator building my version of the digital world one step at a time. All coding projects are made from the ground up or past work from previous roles.
+I'm just a guy who likes to dig into code. 
 
    <p align="left">
       <!-- <a href="https://www.tiktok.com/@.andytam">
