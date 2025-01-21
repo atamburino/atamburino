@@ -1,5 +1,3 @@
-# Hi there! 👋
-
 ```javascript
 class SoftwareEngineer {
     constructor(name, role) {
@@ -8,7 +6,7 @@ class SoftwareEngineer {
     }
 
     sayHi() {
-        console.log(`Hi, I'm ${this.name}, a passionate ${this.role}.\nThanks for dropping by! Hope you find my work interesting.`);
+        console.log(`Hi, I'm ${this.name}, a passionate ${this.role}.\nThanks for dropping by!`);
     }
 }
 
@@ -32,12 +30,6 @@ me.sayHi();
 ![Andy Tamburino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atamburino&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atamburino&layout=compact&theme=radical)
-
----
-
-### 🚀 Projects & Highlights
-
-Here are a few of my favorite projects:
 
 ---
 
