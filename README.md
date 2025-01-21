@@ -27,7 +27,7 @@ me.sayHi();
 ### 🌱 I’m Currently Learning
 
 - More and more JavaScript techniques and design patterns.
-- Backend tech - (Express, c#, Go.)
+- Backend tech - (Express, Go.)
 - Deployment tools such as Vercel 
 - Exploring innovative ways to optimize workflows via vim, TMUX, and more.
 
