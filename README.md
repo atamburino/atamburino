@@ -13,16 +13,6 @@ class SoftwareEngineer {
 const me = new SoftwareEngineer("Andrew Tamburino", "Software Engineer");
 me.sayHi();
 ```
-
----
-
-### 👨‍💻 About Me
-
-- **Name:** Andrew Tamburino
-- **Role:** Software Engineer
-- **Interests:** Coding, building keyboards, and creating fun projects/learning.
-- **OS:** Mac OS, Windows + (WSL2) and Ubuntu.
-
 ---
 
 ### 📈 GitHub Stats
