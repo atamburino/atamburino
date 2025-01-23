@@ -24,10 +24,9 @@ me.sayHi();
 
 ---
 
-### 🌱 I’m Currently Learning
+### 🌱 I’m Currently Exploring 
 
-- More and more JavaScript techniques and design patterns.
-- Backend tech - (Express, Go.)
+- Middlewares
 - Deployment tools such as Vercel 
 - Exploring innovative ways to optimize workflows via vim, TMUX, and more.
 
