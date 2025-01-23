@@ -18,7 +18,7 @@ me.sayHi();
 ### 📈 GitHub Stats
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=atamburino&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=atamburino&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" style="width: 48%;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atamburino&layout=compact&theme=radical" alt="Top Languages" style="width: 48%;"/>
 </div>
 
