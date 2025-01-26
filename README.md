@@ -29,7 +29,7 @@ me.sayHi();
 - Middlewares
 - Deployment tools such as Vercel 
 - Exploring innovative ways to optimize workflows via vim, TMUX, and more.
-
+- AI and how / why it works
 ---
 
 ### 🤝 Let’s Connect!
